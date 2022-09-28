@@ -34,3 +34,11 @@ THEN I find a concise, descriptive title
 - added comments to HTML for readability
 - fixed missing id to make the nevigation bar work correctly
 - changed footer h2 tag to h3 to fix hierarchy
+
+## Screenshot
+
+![HoriseonWebpageScreenshot](assets/images/Horiseon-Screenshot-1.png)
+
+## Deployed page
+
+Page published at:https://mintghostii.github.io/module1challenge-accessibility/
