@@ -41,4 +41,4 @@ THEN I find a concise, descriptive title
 
 ## Deployed page
 
-Page published at:https://mintghostii.github.io/module1challenge-accessibility/
+Page published at:https://scriptmatcha.github.io/module1challenge-accessibility/
